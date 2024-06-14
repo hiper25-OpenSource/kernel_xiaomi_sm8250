@@ -19,6 +19,11 @@ config TECHPACK_CAMERA_XIAOMI_TABLET
     help
       Xiaomi camera tablet
 
+config CAMERA_NONEDXO
+	bool "Enable None-DXO Camera modifications"
+	help
+	  "Enable None-DXO Camera modifications"
+
 endmenu
 
 endmenu
